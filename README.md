@@ -12,3 +12,5 @@ Based on: https://www.tutorialsteacher.com/mvc
 
 **Request/Response flow**  
 The **browser** sends a request to the **MVC Application** which is received by the **Global.ascx** where is routed to a **Controller**, who forms a **Model** that is later passed to a **View** that is rendered to the **output**
+
+# https://www.tutorialsteacher.com/mvc/mvc-folder-structure
